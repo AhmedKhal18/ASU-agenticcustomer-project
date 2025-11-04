@@ -1,0 +1,82 @@
+PRIVACY POLICY
+
+Last Updated: January 1, 2024
+
+1. INFORMATION WE COLLECT
+
+Personal Information:
+- Name and email address
+- Billing information (processed by secure payment processors)
+- Account preferences and settings
+
+Usage Data:
+- Log files and analytics
+- Device information
+- IP address and location data
+- How you interact with our service
+
+2. HOW WE USE YOUR INFORMATION
+
+We use collected information to:
+- Provide and improve our service
+- Process transactions and send invoices
+- Send important service updates
+- Respond to customer support requests
+- Detect and prevent fraud
+- Comply with legal obligations
+
+3. DATA STORAGE AND SECURITY
+
+- Data is stored on secure servers with encryption
+- We use industry-standard security measures
+- Access to personal data is restricted to authorized personnel
+- Regular security audits and updates
+
+4. DATA SHARING
+
+We do not sell your personal information. We may share data with:
+- Service providers who assist in operations (under strict confidentiality)
+- Legal authorities when required by law
+- Business partners only with your explicit consent
+
+5. YOUR RIGHTS
+
+You have the right to:
+- Access your personal data
+- Correct inaccurate information
+- Request deletion of your data
+- Opt-out of marketing communications
+- Export your data
+
+6. COOKIES AND TRACKING
+
+We use cookies to:
+- Remember your preferences
+- Analyze usage patterns
+- Improve user experience
+- You can disable cookies in your browser settings
+
+7. THIRD-PARTY LINKS
+
+Our service may contain links to third-party websites. We are not responsible for their privacy practices.
+
+8. CHILDREN'S PRIVACY
+
+Our service is not intended for users under 18. We do not knowingly collect data from children.
+
+9. DATA RETENTION
+
+We retain your data for as long as your account is active or as needed to provide services. You can request deletion at any time.
+
+10. INTERNATIONAL TRANSFERS
+
+Your data may be transferred to and processed in countries other than your country of residence, with appropriate safeguards in place.
+
+11. CHANGES TO THIS POLICY
+
+We may update this policy periodically. We will notify you of significant changes via email or service notification.
+
+12. CONTACT US
+
+For privacy concerns, contact us at: privacy@example.com
+

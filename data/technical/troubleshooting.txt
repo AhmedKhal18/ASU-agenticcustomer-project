@@ -1,0 +1,47 @@
+TROUBLESHOOTING GUIDE
+
+Common Problems and Solutions:
+
+Problem: Application won't start
+- Check if you have the latest version installed
+- Restart your computer
+- Clear application cache
+- Reinstall if problem persists
+
+Problem: Slow performance
+- Close other applications to free up memory
+- Check internet connection speed
+- Clear browser cache if using web version
+- Update to latest version
+
+Problem: Features not working
+- Ensure you're logged in with correct account
+- Check if your subscription is active
+- Verify browser compatibility
+- Clear cookies and local storage
+
+Problem: Data not syncing
+- Check internet connection
+- Wait a few minutes and try again
+- Log out and log back in
+- Contact support if issue continues
+
+Problem: Import/Export errors
+- Verify file format is supported
+- Check file size (max 100MB)
+- Ensure file is not corrupted
+- Try different file format
+
+Bug Reports:
+If you encounter a bug, please report it with:
+- Description of the issue
+- Steps to reproduce
+- Screenshots if possible
+- Browser/OS version
+- Error messages if any
+
+Contact Technical Support:
+- Email: tech@example.com
+- Response time: Within 24 hours
+- For urgent issues, use priority support (Pro/Enterprise plans)
+

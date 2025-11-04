@@ -1,0 +1,41 @@
+BILLING AND PRICING INFORMATION
+
+Basic Plan: $9.99/month
+- 10GB storage
+- Email support
+- Basic features
+
+Pro Plan: $19.99/month
+- 50GB storage
+- Priority email support
+- Advanced features
+- API access
+
+Enterprise Plan: $49.99/month
+- Unlimited storage
+- 24/7 phone support
+- All features
+- Custom integrations
+- Dedicated account manager
+
+Payment Methods:
+- Credit/Debit cards (Visa, Mastercard, American Express)
+- PayPal
+- Bank transfer (for Enterprise plans)
+
+Billing Cycle:
+- Monthly billing on the same date each month
+- Annual billing available with 20% discount
+- Prorated charges for upgrades mid-cycle
+
+Refund Policy:
+- 30-day money-back guarantee for all plans
+- Refunds processed within 5-7 business days
+- Partial refunds for mid-cycle cancellations
+
+Invoice Information:
+- Invoices available in account dashboard
+- Automatic email receipts
+- PDF download available
+- Tax invoices included for business accounts
+

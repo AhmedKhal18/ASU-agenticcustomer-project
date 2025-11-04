@@ -1,0 +1,26 @@
+COMMON FORUM QUESTIONS
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page. You'll receive an email with reset instructions.
+
+Q: Can I use the service on multiple devices?
+A: Yes, you can use your account on up to 5 devices simultaneously.
+
+Q: How do I export my data?
+A: Go to Settings > Data Management > Export. You can export in JSON or CSV format.
+
+Q: What file formats are supported?
+A: We support PDF, DOCX, TXT, CSV, JSON, and XML formats.
+
+Q: Is there a mobile app?
+A: Yes, we have iOS and Android apps available in their respective app stores.
+
+Q: How do I change my email address?
+A: Go to Account Settings > Profile and update your email. You'll need to verify the new address.
+
+Q: Can I customize the interface?
+A: Yes, Pro and Enterprise plans include theme customization options.
+
+Q: How do I share content with team members?
+A: Enterprise plans include team collaboration features. Invite team members from the Team Settings page.
+

@@ -1,0 +1,50 @@
+COMPLIANCE INFORMATION
+
+GDPR Compliance:
+- We comply with the General Data Protection Regulation (GDPR)
+- EU users have specific rights regarding their personal data
+- Data processing agreements available for business customers
+- Right to data portability and deletion
+
+SOC 2 Compliance:
+- We maintain SOC 2 Type II certification
+- Annual security audits conducted
+- Access controls and monitoring in place
+- Incident response procedures established
+
+PCI DSS Compliance:
+- Payment processing complies with PCI DSS standards
+- Credit card data is not stored on our servers
+- Secure payment gateway integration
+- Regular security assessments
+
+HIPAA Compliance:
+- Healthcare customers can request HIPAA-compliant data handling
+- Business Associate Agreements (BAA) available
+- Enhanced security measures for healthcare data
+- Audit trails and access logging
+
+Data Residency:
+- Data stored in region-specific data centers
+- EU data stored in EU data centers
+- US data stored in US data centers
+- Custom data residency options for Enterprise customers
+
+Audit and Reporting:
+- Regular compliance audits conducted
+- Compliance reports available upon request
+- Transparency in data handling practices
+- Incident reporting procedures
+
+Legal Requirements:
+- We comply with applicable data protection laws
+- Regular legal review of practices
+- Updates to policies as laws change
+- Cooperation with regulatory authorities
+
+Certifications:
+- ISO 27001 (Information Security Management)
+- SOC 2 Type II
+- GDPR Compliant
+- PCI DSS Level 1
+

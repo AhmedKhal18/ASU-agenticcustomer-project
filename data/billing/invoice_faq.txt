@@ -1,0 +1,20 @@
+INVOICE FREQUENTLY ASKED QUESTIONS
+
+Q: How do I get my invoice?
+A: Log into your account dashboard and navigate to the Billing section. All invoices are available for download in PDF format.
+
+Q: Can I change my billing date?
+A: Yes, you can change your billing date by contacting our billing department. Changes take effect on the next billing cycle.
+
+Q: What happens if my payment fails?
+A: We will attempt to charge your payment method up to 3 times. If all attempts fail, your account will be suspended. You'll receive email notifications before suspension.
+
+Q: Can I get an invoice for a specific period?
+A: Yes, you can request custom invoices for any date range by contacting billing support.
+
+Q: Do you offer refunds?
+A: Yes, we offer a 30-day money-back guarantee. Refund requests must be submitted within 30 days of purchase.
+
+Q: How do I upgrade my plan?
+A: Go to Account Settings > Billing and click "Upgrade Plan". You'll be charged a prorated amount for the remainder of your billing cycle.
+

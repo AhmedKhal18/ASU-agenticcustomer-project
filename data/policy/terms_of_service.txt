@@ -1,0 +1,48 @@
+TERMS OF SERVICE
+
+Last Updated: January 1, 2024
+
+1. ACCEPTANCE OF TERMS
+By accessing and using our service, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our service.
+
+2. DESCRIPTION OF SERVICE
+We provide a cloud-based platform for document management and collaboration. The service includes features for storage, sharing, and processing of documents.
+
+3. USER ACCOUNTS
+- You must be at least 18 years old to create an account
+- You are responsible for maintaining the security of your account
+- You must provide accurate information when creating an account
+- One account per person or organization
+
+4. SUBSCRIPTION AND PAYMENT
+- Subscriptions are billed monthly or annually
+- All fees are non-refundable except as required by law
+- We reserve the right to change pricing with 30 days notice
+- Failed payments may result in service suspension
+
+5. USER CONTENT
+- You retain ownership of content you upload
+- You grant us a license to use your content to provide the service
+- You are responsible for ensuring you have rights to content you upload
+- We reserve the right to remove content that violates these terms
+
+6. PROHIBITED USES
+You may not:
+- Use the service for illegal purposes
+- Upload malicious software or content
+- Attempt to gain unauthorized access
+- Reverse engineer or decompile the service
+- Resell or redistribute the service
+
+7. INTELLECTUAL PROPERTY
+All content, features, and functionality of the service are owned by us and protected by copyright, trademark, and other laws.
+
+8. LIMITATION OF LIABILITY
+We are not liable for any indirect, incidental, or consequential damages arising from use of the service.
+
+9. TERMINATION
+We may terminate or suspend your account at any time for violation of these terms.
+
+10. CHANGES TO TERMS
+We reserve the right to modify these terms at any time. Continued use constitutes acceptance of changes.
+
