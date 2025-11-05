@@ -91,25 +91,25 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-gray-50">
+    <div className="flex flex-col h-screen bg-gray-900">
       {/* Header */}
-      <header className="bg-white shadow-sm border-b border-gray-200 px-6 py-4">
-        <h1 className="text-2xl font-bold text-gray-800">
+      <header className="bg-gray-800 shadow-lg border-b border-gray-700 px-6 py-4">
+        <h1 className="text-2xl font-bold text-white">
           Customer Service AI Agent
         </h1>
-        <p className="text-sm text-gray-600 mt-1">
+        <p className="text-sm text-gray-300 mt-1">
           Multi-agent intelligent customer support system
         </p>
       </header>
 
       {/* Messages Container */}
-      <div className="flex-1 overflow-y-auto px-6 py-4 space-y-4">
+      <div className="flex-1 overflow-y-auto px-6 py-4 space-y-4 bg-gray-900">
         {messages.length === 0 && (
           <div className="flex items-center justify-center h-full">
-            <div className="text-center text-gray-500">
-              <Bot className="w-16 h-16 mx-auto mb-4 text-gray-400" />
-              <p className="text-lg font-medium">Welcome to Customer Service AI</p>
-              <p className="text-sm mt-2">
+            <div className="text-center text-gray-400">
+              <Bot className="w-16 h-16 mx-auto mb-4 text-gray-500" />
+              <p className="text-lg font-medium text-gray-200">Welcome to Customer Service AI</p>
+              <p className="text-sm mt-2 text-gray-400">
                 Ask me anything about billing, technical support, or policies!
               </p>
             </div>
@@ -134,13 +134,13 @@ export default function Home() {
             <div
               className={`max-w-2xl rounded-lg px-4 py-3 ${
                 message.role === 'user'
-                  ? 'bg-blue-500 text-white'
-                  : 'bg-white text-gray-800 shadow-sm border border-gray-200'
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-gray-800 text-gray-100 shadow-lg border border-gray-700'
               }`}
             >
               <p className="whitespace-pre-wrap">{message.content}</p>
               {message.agentType && message.role === 'assistant' && (
-                <p className="text-xs mt-2 opacity-70">
+                <p className="text-xs mt-2 opacity-80 text-gray-300">
                   {getAgentLabel(message.agentType)}
                 </p>
               )}
@@ -148,8 +148,8 @@ export default function Home() {
 
             {message.role === 'user' && (
               <div className="flex-shrink-0">
-                <div className="w-8 h-8 rounded-full bg-gray-300 flex items-center justify-center">
-                  <User className="w-5 h-5 text-gray-600" />
+                <div className="w-8 h-8 rounded-full bg-gray-600 flex items-center justify-center">
+                  <User className="w-5 h-5 text-gray-200" />
                 </div>
               </div>
             )}
@@ -163,7 +163,7 @@ export default function Home() {
                 <Bot className="w-5 h-5 text-white" />
               </div>
             </div>
-            <div className="bg-white rounded-lg px-4 py-3 shadow-sm border border-gray-200">
+            <div className="bg-gray-800 rounded-lg px-4 py-3 shadow-lg border border-gray-700">
               <div className="flex gap-1">
                 <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce"></div>
                 <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></div>
@@ -177,7 +177,7 @@ export default function Home() {
       </div>
 
       {/* Input Container */}
-      <div className="bg-white border-t border-gray-200 px-6 py-4">
+      <div className="bg-gray-800 border-t border-gray-700 px-6 py-4">
         <div className="flex gap-3 max-w-4xl mx-auto">
           <input
             type="text"
@@ -185,13 +185,13 @@ export default function Home() {
             onChange={(e) => setInput(e.target.value)}
             onKeyPress={handleKeyPress}
             placeholder="Type your message..."
-            className="flex-1 px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+            className="flex-1 px-4 py-2 bg-gray-700 text-white border border-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent placeholder-gray-400"
             disabled={isLoading}
           />
           <button
             onClick={sendMessage}
             disabled={isLoading || !input.trim()}
-            className="px-6 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
+            className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:opacity-50 disabled:cursor-not-allowed flex items-center gap-2 transition-colors"
           >
             <Send className="w-5 h-5" />
             Send
