@@ -153,9 +153,9 @@ def main():
             print(f"\nCreating vector store for {category} documents...")
             collection_name = f"{settings.chroma_collection_name}_{category}"
             create_vector_store(docs, collection_name, embeddings)
-            print(f"✓ Vector store created for {category}")
+            print(f"Vector store created for {category}")
     
-    print("\n✓ Data ingestion complete!")
+    print("\nData ingestion complete!")
 
 
 if __name__ == "__main__":
